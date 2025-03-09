@@ -199,7 +199,7 @@
           </a></li>
           <li class="nav-item"><a class="nav-link" href="https://play.google.com/store/apps/dev?id=8472172756594763620&hl=en_IN"><i class="fa-brands fa-google-play me-2"></i>Play Store</a></li>
           <li class="nav-item"><a class="nav-link" href="privacy.php"><i class="fa-solid fa-shield-halved me-2"></i>Privacy</a></li>
-          <li class="nav-item"><a class="nav-link" href="#"><i class="fa-solid fa-envelope me-2"></i>Contact</a></li>
+          <li class="nav-item"><a class="nav-link" href="contact.php"><i class="fa-solid fa-envelope me-2"></i>Contact</a></li>
           <li class="nav-item"><a class="nav-link" href="https://shaji.in"><i class="fa-solid fa-person me-2"></i>Developer</a></li>
         </ul>
       </div>
